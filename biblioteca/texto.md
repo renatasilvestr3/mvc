@@ -1,0 +1,1 @@
+Uma biblioteca é um arquivo de JavaScript que contém um monte de fições, e essas funções realizam alguma tarefa útil para sua aplicação web.
