@@ -1,0 +1,53 @@
+[
+    {
+        "Grupo": "Siré: (En)canto dos Orixás",
+        "Intrumentação": "Violão, viola, flauta doce, voz, flauta transversal, percussão, dança",
+        "Integrantes": "Edelson Moraes, Erick Ramon, Felippe Sabino, Gabriela Martinez, Igor Sá, João Lira, Maria Laura, Mirty Katlyn, Renata Silvestre",
+        "Contato": "none",
+        "Detalhe": {
+                     "Gênero": "Música de Terreiro",
+                     "Descrição": "none"
+                   }
+
+    },
+    {
+        "Grupo": "Orí",
+        "Intrumentação": "Violão, flauta transversal, voz, cavaquinho, percussão",
+        "Integrantes": "Beto Xambá, Nino Xambá, Meme Xambá e Thulio Xambá",
+        "Contato": "none",
+        "Detalhe":  {
+                      "Gênero": "Música de Terreiro",
+                      "Descrição": "none"
+                    }
+    },
+    {
+        "Grupo": "Bongar",
+        "Intrumentação": "percussão, voz",
+        "Integrantes": "none",
+        "Contato": "none",
+        "Detalhe":  {
+                     "Gênero": "Música de Terreiro",
+                     "Descrição": "none"
+                    }        
+    },
+    {
+        "Grupo": "Afoxe Oxum Pandá",
+        "Intrumentação": "Percução, voz",
+        "Integrantes": "none",
+        "Contato": "none",
+        "Detalhe":  {
+                     "Gênero": "Música de Terreiro",
+                     "Descrição": "none"
+                    }  
+    },
+    {
+        "Grupo": "Afoxé Omô Nilê Ogunjá",
+        "Intrumentação": "Percução, voz",
+        "Integrantes": "none",
+        "Contato": "none",
+        "Detalhe":  {
+                     "Gênero": "Música de Terreiro",
+                     "Descrição": "none"
+                    }  
+    }
+]

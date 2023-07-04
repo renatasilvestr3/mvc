@@ -2,7 +2,6 @@
 
 import Router from 'express';
 
-
 const router = Router(); //função para criação de rotas do express
 
 router.get("/", function (req, res) {
