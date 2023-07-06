@@ -36,7 +36,7 @@ Para clonar o repositório do projeto, siga as etapas abaixo:
 2. Execute o seguinte comando para clonar o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/mvc.git
+git clone https://github.com/renatasilvestr3/mvc.git
 ```
 
 Certifique-se de substituir `renatasilvestr3` pelo seu nome de usuário do GitHub.
