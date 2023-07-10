@@ -1,7 +1,10 @@
-import express from 'express'
-import ApiContreller from '../controllers/apiControllers.js';
+import express from 'express';
+import ApiController from '../controllers/apiControllers.js';
 
 const router = express.Router();
 
 router
-.get("/", ApiContreller.getAllApis)
+.get("/", ApiController.getAllApis)
+.post("/", ApiController.createApis)
+
+export default router;

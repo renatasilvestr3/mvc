@@ -1,6 +1,6 @@
-import mongoose from 'mongoose';
+import mongoose from "mongoose";
 
-const apiSchema = new mongoose.Schema(
+const apiScheema = new mongoose.Schema(
     {
         grupo: { type: String, require: true},
         instrumentacao: { type: Array, require: true},
@@ -8,8 +8,8 @@ const apiSchema = new mongoose.Schema(
         contato: { type: String, require: true},
         detalhes: { type: Object, require: true}
     }
-)
+);
 
-const apis = mongoose.model('apis', apiSchema);
+const apis = mongoose.model("apis", apiScheema);
 
-module.exports = apis;
+export default apis;
